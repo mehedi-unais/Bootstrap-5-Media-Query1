@@ -1,0 +1,9 @@
+.box{
+	padding-top: 65px;
+    min-height: 200px;
+	font-size: 40px;
+	text-align: center;
+	background-color: darkred;
+	color: white;
+	display: none;
+}
